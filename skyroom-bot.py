@@ -9,7 +9,7 @@ import os
 x = platform.system()
 if x == "Windows" :
 	os.system('cls')
-
+# damn
 LENAME = ""
 URL = input('Paste the URL: ') # Put your URL here
 IFTEXT = input('Enable Textspam Y/N: ')
